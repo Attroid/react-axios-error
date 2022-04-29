@@ -2,6 +2,7 @@
   "name": "react-axios-error",
   "version": "1.0.0",
   "author": "Attroid",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {

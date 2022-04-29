@@ -1,6 +1,6 @@
 {
   "name": "react-axios-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Attroid",
   "license": "MIT",
   "main": "dist/index.js",
